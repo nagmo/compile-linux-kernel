@@ -11,3 +11,4 @@ instructions:
 importent notice:
   - after running the script the conction will be lost, you need to reconect over ssh
   - if after reboot the script get stuck press "ctrl+z"
+  - don't forget to create a snapshot before running the script
